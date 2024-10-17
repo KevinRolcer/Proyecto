@@ -79,7 +79,7 @@ if (!empty($_POST)) {
     <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/2.5.1/uicons-regular-rounded/css/uicons-regular-rounded.css'>
     <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/2.5.1/uicons-regular-rounded/css/uicons-regular-rounded.css'>
 
-    <title>Productos</title>
+    <title>Productos de kevin</title>
 </head>
 
 

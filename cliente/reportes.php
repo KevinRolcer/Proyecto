@@ -34,7 +34,7 @@
                 </a>
             </div>
         </div>
-        <h2>Reporte De Categorias</h2>
+        <h2>Reporte de categorias</h2>
         <div class="row">
             <div class="col">
                 <a href="R_cat_pdf.php">
@@ -53,7 +53,7 @@
             </div>
         </div>
 
-        <h2>Reporte De Productos</h2>
+        <h2>Reporte de productos</h2>
         <div class="row">
             <div class="col">
                 <a href="R_prod_pdf.php">
@@ -74,7 +74,7 @@
 
     </div>
     <footer>
-        <!-- inicia pie-->
+        <!-- inicia pie de pagina-->
         <?php include_once("include/pie.php") ?>
         <!--fin pie-->
     </footer>
